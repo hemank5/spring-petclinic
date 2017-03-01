@@ -53,8 +53,8 @@
       <id>nexus-local</id>
       <url>http://localhost:8081/repository/maven-releases</url>
     </repository>
-  </distributionManagement>
-  <dependencies> -->
+  </distributionManagement> -->
+  <dependencies>
     
     <!-- Spring and Spring Boot dependencies -->
     <dependency>
